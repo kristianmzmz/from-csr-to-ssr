@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Search images from NASA:</h1>
+    <h1>NUXT - Search images from NASA:</h1>
     <Search />
   </div>
 </template>
