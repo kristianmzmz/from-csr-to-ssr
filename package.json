@@ -7,10 +7,7 @@
     "build-nuxt": "nuxt build",
     "start-nuxt": "nuxt start",
     "generate-nuxt": "nuxt generate",
-    "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "test": "jest"
   },
   "dependencies": {
     "axios": "^0.21.1",
