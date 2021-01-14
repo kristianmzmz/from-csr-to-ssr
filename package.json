@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    "dev": "nuxt",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
@@ -11,6 +12,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.6.4",
+    "nuxt": "^2.14.12",
     "vue": "^2.6.12"
   },
   "devDependencies": {
